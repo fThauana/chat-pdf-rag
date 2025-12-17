@@ -1,6 +1,6 @@
 # 🤖 Chat com PDF usando RAG e Llama 3 (Groq API)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([analise_documentos_rag_langchain.ipynb](https://github.com/fThauana/chat-pdf-rag/blob/main/analise_documentos_rag_langchain.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fThauana/chat-pdf-rag/blob/main/analise_documentos_rag_langchain.ipynb)
 
 
 ## 📋 Sobre o Projeto
