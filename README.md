@@ -39,6 +39,14 @@ A maneira mais fácil de testar é utilizando o **Google Colab**, pois o ambient
 4.  Execute as células sequencialmente.
 5.  Quando solicitado, insira sua chave de API (o input é protegido/invisível por segurança).
 
+**Importante:** Caso apresente um erro de versão do LangChain na célula de código da "ingestão e processamento de dados", aqui está um passo a passo simples de como resolver:
+1. Execute novamente a célula de código de instalação das dependências, a célula que começa com ```!pip install```
+2. No seu Colab, vá em "Ambiente de execução" e clique em "Reiniciar Sessão"
+3. Depois de reiniciar, NÃO rode o ```!pip install``` de novo. E execute as células de código seguintes
+
+Esse erro acontece porque o LangChain se atualizou recentemente (versão 0.2+) e mudou alguns arquivos de lugar para ficar mais organizado.
+Se tiver alguma dúvida sobre o projeto, pode entrar em contato!
+
 ---
 
 ## 📂 Estrutura do Notebook
